@@ -1,0 +1,10 @@
+bs4
+aiohttp
+asyncio
+zipfile
+xlwt
+requests
+xlutils
+xlrd
+pytest
+unittest
